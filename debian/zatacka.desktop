@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Name=Zatacka
+Comment=Arcade multiplayer game for 2-6 players
+Type=Application
+Exec=zatacka
+Categories=Game;ArcadeGame;

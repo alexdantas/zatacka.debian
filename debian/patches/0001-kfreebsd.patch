@@ -1,0 +1,14 @@
+Description: Patch to fix the FTBFS on GNU/kFreeBSD
+Author: Anibal Avelar <aavelar@cofradia.org>
+Last-Update: 2008-03-13
+--- a/src/main.cpp
++++ b/src/main.cpp
+@@ -17,7 +17,7 @@
+  * 
+  */
+ 
+-#ifdef __linux__
++#ifdef __unix__
+ #include <unistd.h>
+ #include <defaults.h>
+ #endif

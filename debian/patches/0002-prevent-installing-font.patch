@@ -1,0 +1,13 @@
+Description: Prevents package from installing it's font - it's already supplied through linkage on debian/zatacka.links
+Author: Alexandre Dantas <alex.dantas92@gmail.com>
+Last-Update: 2013-04-29
+--- a/Makefile.am
++++ b/Makefile.am
+@@ -15,7 +15,6 @@
+ 	 $(INSTALL_DATA) $(srcdir)/img/main_screen.jpg $(DESTDIR)$(DEFAULT_LIBDIR)/$(PACKAGE); \
+ 	 $(INSTALL_DATA) $(srcdir)/img/barrier.jpg $(DESTDIR)$(DEFAULT_LIBDIR)/$(PACKAGE); \
+ 	 $(INSTALL_DATA) $(srcdir)/maps/map1.jpg $(DESTDIR)$(DEFAULT_LIBDIR)/$(PACKAGE); \
+-	 $(INSTALL_DATA) $(srcdir)/fonts/font.ttf $(DESTDIR)$(DEFAULT_LIBDIR)/$(PACKAGE); \
+ 	 $(INSTALL_DATA) $(srcdir)/README $(DESTDIR)$(DEFAULT_LIBDIR)/$(PACKAGE); 
+ 
+ uninstall-local:
