@@ -1,2 +1,0 @@
-?package(zatacka):needs="X11" section="Games/Board"\
-  title="Zatacka" command="/usr/games/zatacka"
