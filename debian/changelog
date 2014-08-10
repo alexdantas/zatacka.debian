@@ -1,3 +1,9 @@
+zatacka (0.1.8-5) unstable; urgency=medium
+
+  * Updated maintainer contact information
+
+ -- Alexandre Dantas <eu@alexdantas.net>  Sun, 10 Aug 2014 12:24:17 -0400
+
 zatacka (0.1.8-4) unstable; urgency=low
 
   [ Alexandre Dantas ]
@@ -5,7 +11,7 @@ zatacka (0.1.8-4) unstable; urgency=low
   * Update Vcs links on debian/control
 
   [ Anton Gladky ]
-  * Set Standards-Version: 3.9.5. No changes.
+  * Set Standards-Version: 3.9.5. No changes
 
  -- Alexandre Dantas <alex.dantas92@gmail.com>  Sat, 28 Jun 2014 15:40:41 -0400
 
