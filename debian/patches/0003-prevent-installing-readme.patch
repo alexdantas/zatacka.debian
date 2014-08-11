@@ -1,5 +1,5 @@
 Description: Prevented installing README on /usr/share/games/zatacka. It is fixed with debian/docs.
-Author: Alexandre Dantas <alex.dantas92@gmail.com>
+Author: Alexandre Dantas <eu@alexdantas.net>
 Last-Update: 2013-05-02
 --- a/Makefile.am
 +++ b/Makefile.am

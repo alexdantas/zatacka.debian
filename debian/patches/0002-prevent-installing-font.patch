@@ -1,5 +1,5 @@
 Description: Prevents package from installing it's font - it's already supplied through linkage on debian/zatacka.links
-Author: Alexandre Dantas <alex.dantas92@gmail.com>
+Author: Alexandre Dantas <eu@alexdantas.net>
 Last-Update: 2013-04-29
 --- a/Makefile.am
 +++ b/Makefile.am

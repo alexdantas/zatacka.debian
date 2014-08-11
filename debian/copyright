@@ -10,7 +10,7 @@ License: GPL-2.0+
 Files: debian/*
 Copyright: 2006 Gürkan Sengün <gurkan@linuks.mine.nu>,
            2007 Anibal Avelar <aavelar@cofradia.org>,
-           2013 Alexandre Dantas <alex.dantas92@gmail.com>
+           2013 Alexandre Dantas <eu@alexdantas.net>
 License: GPL-3.0+
 
 Files: SDL_prim.c SDL_prim.h
