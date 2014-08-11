@@ -10,7 +10,7 @@ License: GPL-2.0+
 Files: debian/*
 Copyright: 2006 Gürkan Sengün <gurkan@linuks.mine.nu>,
            2007 Anibal Avelar <aavelar@cofradia.org>,
-           2013 Alexandre Dantas <eu@alexdantas.net>
+           2013-2014 Alexandre Dantas <eu@alexdantas.net>
 License: GPL-3.0+
 
 Files: SDL_prim.c SDL_prim.h
@@ -18,22 +18,21 @@ Copyright: 2003-2005 Ryan McGuigan
 License: LGPL-2.1+ or MPL-1.1+ or BSD-3-clause
 
 License: GPL-2.0+
- This program is free software; you can redistribute it and/or modify
+ This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation; either version 2 of the License, or
  (at your option) any later version.
  .
- This program is distributed in the hope that it will be useful,
+ This package is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty of
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  GNU General Public License for more details.
  .
  You should have received a copy of the GNU General Public License
- along with this program; if not, write to the Free Software
- Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+ along with this program. If not, see <http://www.gnu.org/licenses/>
  .
- On Debian GNU/Linux systems, the complete text of the GNU General
- Public License can be found in `/usr/share/common-licenses/GPL-2'.
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
 
 License: GPL-3.0+
  This program is free software: you can redistribute it and/or modify
@@ -552,6 +551,3 @@ License: BSD-3-clause
  ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-
