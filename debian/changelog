@@ -1,6 +1,13 @@
 zatacka (0.1.8-5) unstable; urgency=medium
 
+  [ Alexandre Dantas ]
+
   * Updated maintainer contact information
+
+  [ Joao Eriberto Mota Filho ]
+
+  * debian/rules: added DEB_LDFLAGS_MAINT_APPEND
+    to avoid dpkg-shlibdeps warnings.
 
  -- Alexandre Dantas <eu@alexdantas.net>  Sun, 10 Aug 2014 12:24:17 -0400
 
