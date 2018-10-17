@@ -1,6 +1,7 @@
 zatacka (0.1.8-6) UNRELEASED; urgency=medium
 
   * Use secure URI in Vcs control header.
+  * Use secure copyright file specification URI.
 
  -- Jelmer Vernooĳ <jelmer@debian.org>  Wed, 17 Oct 2018 01:08:42 +0000
 
