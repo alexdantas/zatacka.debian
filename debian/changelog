@@ -1,3 +1,9 @@
+zatacka (0.1.8-6) UNRELEASED; urgency=medium
+
+  * Trim trailing whitespace.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Tue, 05 May 2020 15:28:26 +0000
+
 zatacka (0.1.8-5) unstable; urgency=medium
 
   [ Alexandre Dantas ]
@@ -91,4 +97,3 @@ zatacka (0.1.3dfsg1-1) unstable; urgency=low
   * Initial release. (Closes: #351502)
 
  -- Gürkan Sengün <gurkan@linuks.mine.nu>  Sun,  5 Feb 2006 11:32:37 +0100
-
