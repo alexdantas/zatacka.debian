@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Alexandre Dantas <eu@alexdantas.net>
 Build-Depends: debhelper (>= 9), autotools-dev, dh-autoreconf, autoconf,
                libsdl1.2-dev, libsdl-ttf2.0-dev, libsdl-image1.2-dev,
-               ttf-dejavu
+               fonts-dejavu
 Standards-Version: 3.9.5
 Homepage: http://zatacka.sourceforge.net/
 Vcs-Git: git://github.com/alexdantas/zatacka.debian.git -b master
