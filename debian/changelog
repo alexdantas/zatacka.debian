@@ -1,3 +1,12 @@
+zatacka (0.1.8-6) UNRELEASED; urgency=medium
+
+  * Update dependency on the transitional dummy ttf-dejavu-core (which was
+    dropped from unstable) to fonts-dejavu-core (Closes: #961863)
+    - debian/control
+    - debian/zatacka.links
+
+ -- Olivier Tilloy <olivier.tilloy@canonical.com>  Thu, 04 Jun 2020 15:21:39 +0200
+
 zatacka (0.1.8-5) unstable; urgency=medium
 
   [ Alexandre Dantas ]
